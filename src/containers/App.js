@@ -107,4 +107,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default withClass(App, classes.App);
